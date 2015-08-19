@@ -23,19 +23,3 @@ newString=-Dagent.role=dev.UK.Management
 editedFile=../../boot.properties
 
 Example Bundle File
-
-<Bundle name="RoleChangeApp" version="1.1" system="false">
-  <status>UNINSTALLED</status>
-  <owner>ben.newton@excelian.com</owner>
-  <services>
-  	<Service>
-    <name>RoleChange</name>
-	<resourceSelection>id = 0</resourceSelection>
-    <fork>true</fork>
-    <background>true</background>
-	<instanceCount>-1</instanceCount>
-	<pauseSeconds>600</pauseSeconds>
-    <script>BootPropertiesChange.groovy config.properties</script>
-	</Service>  	
-  </services>
-</Bundle>
