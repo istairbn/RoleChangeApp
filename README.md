@@ -21,5 +21,3 @@ Example properties File
 oldString=-Dagent.role=dev.Management
 newString=-Dagent.role=dev.UK.Management
 editedFile=../../boot.properties
-
-Example Bundle File
