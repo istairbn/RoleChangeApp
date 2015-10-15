@@ -13,7 +13,7 @@ import java.io.File.*
 import java.nio.file.*
 
 Properties properties = new Properties()
-def props = args.length > 0 ? ".\\lib\\" + args[0] : ".\\lib\\config.properties"
+def props = args.length > 0 ? "./lib/" + args[0] : "./lib/config.properties"
 def propertiesFile = new File(props)
 
 if (propertiesFile.exists()){
