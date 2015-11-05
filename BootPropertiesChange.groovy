@@ -3,7 +3,7 @@
 # BootPropertiesChange.Groovy
 # Author - Benjamin Newton
 # Excelian
-#
+# support@logscape.com
 # This code changes the strings within the file set in the config
 #################################################################
 */
