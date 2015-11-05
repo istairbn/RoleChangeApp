@@ -1,7 +1,5 @@
 # RoleChangeApp
 Ben Newton
-ben.newton@excelian.com
-
 A Logscape App, designed to amend the Zone and Role of an agent remotely
 
 This allows you make changes as an administrator without having to amend each file.
