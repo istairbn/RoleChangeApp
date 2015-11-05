@@ -1,6 +1,6 @@
 <Bundle name="RoleChangeApp" version="1.1" system="false">
   <status>UNINSTALLED</status>
-  <owner>ben.newton@excelian.com</owner>
+  <owner>support@logscape.com</owner>
   <services>
   	<Service>
     <name>RoleChange</name>
